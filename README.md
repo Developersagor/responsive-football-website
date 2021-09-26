@@ -6,4 +6,4 @@
 </ul>
 <a href="https://developersagor.github.io/responsive-football-website/index.html">
   clicke
-</a>;
+</a>
